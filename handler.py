@@ -5,6 +5,10 @@
 """
 BASIC File Integrity Monitor
 
+Developed to be used in CTF 
+
+Creates alerts for: added/removed/changed files
+  
 @author: DA4NY
 """
 
@@ -185,7 +189,7 @@ def load_dict(file, LOG_FILE):
     
 
 
-# Log events
+#handle.log
 
 def log(log_dir, message):
     
@@ -200,7 +204,7 @@ def log(log_dir, message):
                "\n")
     file.close
     
-
+#alert.log
 def log_change(log_dir, message):
     
     # get time
