@@ -19,7 +19,7 @@ The script recursively scan the given directory tree . Then, it will log any fil
 + You can use the script to monitor the files stored in the web app.
 + If you are in the Blue Team at a CCDC competition, you can use this script to monitor your server and easily see which files modified.
 #### Libraries Used
-
+> To proceed without any problems you need to install all required libraries 
 - os
 - pickle 
 - datetime
