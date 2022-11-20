@@ -10,7 +10,7 @@ The script recursively scan the given directory tree . Then, it will log any fil
 - Removed files
 - Added files
 
-![image](https://user-images.githubusercontent.com/117517618/202917344-d67203cb-ae46-40ad-9bcf-5efe3a179610.png)
+![image](https://user-images.githubusercontent.com/117517618/202917616-d6bb3e36-b20f-4125-b851-627316a37a2e.png)
 
 ## Use Cases
 
