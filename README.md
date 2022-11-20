@@ -3,7 +3,7 @@
 This is a script developed to be used in CTF. 
  
 
-## utility :
+## Utility 
 The script recursively scan the given directory tree . Then, it will log any file changes (every 4 seconds by default ) including;
 
 - Modified files
