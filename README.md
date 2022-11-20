@@ -12,6 +12,7 @@ The script recursively scan the given directory tree . Then, it will log any fil
 
 ![image](https://user-images.githubusercontent.com/117517618/202917616-d6bb3e36-b20f-4125-b851-627316a37a2e.png)
 
+> This script will generate two log files : **handler.log** and **alert.log** 
 ## Use Cases
 
 + You may monitor the integrity of the files that may have PII. In this case, you can place the script where your files live, and create a crontab or use task scheduler to run the script.
