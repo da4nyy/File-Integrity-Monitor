@@ -1,6 +1,7 @@
 # File-Integrity-Monitor
 
 This is a script developed to be used in CTF. 
+This code is a Python script for a basic file integrity monitor, which is a tool used to monitor changes to files in a given directory. The script takes two arguments: a directory to scan, and an output file for alerts. The script will recursively scan the given directory and its subdirectories, and will create alerts for any added, removed, or changed files. The script uses the os, sys, and pickle libraries to perform file system operations, as well as the datetime, hashlib, logging, and time libraries for other operations.
  
 
 ## Utility 
